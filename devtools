@@ -1,0 +1,15 @@
+
+Grip
+--- 
+Python markdown display tool that runs on your local server.
+Default address - "localhost:6419"
+Use - cd ~/working_directory && grip
+
+Ngrok
+---
+Allows external users to access your local development
+Use - 'valet share'
+
+
+
+

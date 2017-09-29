@@ -1,0 +1,12 @@
+
+Color Scheme Setup
+---
+PackageResourceViewer - open resource
+Check for your theme
+
+To get a border around your selection, modify the selectionBorder to a hex value you care about.  This one is blue.
+<key>selectionBorder</key>
+<string>#83a598</string>  
+
+https://forum.sublimetext.com/t/themes-directory-in-mac-osx/15366
+https://packagecontrol.io/packages/gruvbox

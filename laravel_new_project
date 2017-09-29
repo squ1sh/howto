@@ -1,0 +1,11 @@
+Starting out New
+---
+
+yarn install
+composer install
+copy in a .env file
+- Add local database
+- APP_KEY should be a rando
+- SESSION_DRIVER should be database
+- SESSION_SECURE=false
+start email faker if doing confirmation emails
